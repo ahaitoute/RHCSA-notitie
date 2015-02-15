@@ -57,9 +57,9 @@ Bron: https://www.redhat.com/en/services/training/ex200-red-hat-certified-system
 * Modify the system bootloader
 
 ## Manage users and groups
-* Create, delete, and modify local user accounts
+* [Create, delete, and modify local user accounts](6-Manage users and groups/1-Create, delete, and modify local user accounts.md)
 * Change passwords and adjust password aging for local user accounts
-* Create, delete, and modify local groups and group memberships
+* [Create, delete, and modify local groups and group memberships](6-Manage users and groups/3-Create, delete, and modify local groups and group memberships.md)
 * Configure a system to use an existing authentication service for user and group information
 
 ## Manage security
