@@ -52,7 +52,7 @@ Bron: https://www.redhat.com/en/services/training/ex200-red-hat-certified-system
 * Configure systems to launch virtual machines at boot
 * Configure network services to start automatically at boot
 * Configure a system to use time services
-* [Install and update software packages from Red Hat Network, a remote repository, or from the local file system](05-Deploy, configure, and maintain systems/11-Install and update software packages from Red Hat Network, a remote repository, or from the local file system.md)
+* [Install and update software packages from Red Hat Network, a remote repository, or from the local file system](5-Deploy, configure, and maintain systems/11-Install and update software packages from Red Hat Network, a remote repository, or from the local file system.md)
 * Update the kernel package appropriately to ensure a bootable system
 * Modify the system bootloader
 
