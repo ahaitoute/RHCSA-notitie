@@ -17,7 +17,7 @@ Bron: https://www.redhat.com/en/services/training/ex200-red-hat-certified-system
 * Locate, read, and use system documentation including man, info, and files in /usr/share/doc
 
 ## Operate running systems
-* Boot, reboot, and shut down a system normally
+* [Boot, reboot, and shut down a system normally](2-Operate running systems/1-Boot, reboot, and shut down a system normally.md)
 * [Boot systems into different targets manually](2-Operate running systems/2-Boot systems into different targets manually.md)
 * Interrupt the boot process in order to gain access to a system
 * Identify CPU/memory intensive processes, adjust process priority with renice, and kill processes
