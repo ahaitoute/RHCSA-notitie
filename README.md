@@ -19,7 +19,7 @@ Bron: https://www.redhat.com/en/services/training/ex200-red-hat-certified-system
 ## Operate running systems
 * [Boot, reboot, and shut down a system normally](2-Operate running systems/1-Boot, reboot, and shut down a system normally.md)
 * [Boot systems into different targets manually](2-Operate running systems/2-Boot systems into different targets manually.md)
-* Interrupt the boot process in order to gain access to a system
+* [Interrupt the boot process in order to gain access to a system](2-Operate running systems/3-Interrupt the boot process in order to gain access to a system.md)
 * Identify CPU/memory intensive processes, adjust process priority with renice, and kill processes
 * Locate and interpret system log files and journals
 * Access a virtual machine's console
