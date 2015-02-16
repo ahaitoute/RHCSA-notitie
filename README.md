@@ -7,7 +7,7 @@ Bron: https://www.redhat.com/en/services/training/ex200-red-hat-certified-system
 * Access a shell prompt and issue commands with correct syntax
 * Use input-output redirection (>, >>, |, 2>, etc.)
 * Use grep and regular expressions to analyze text
-* Access remote systems using ssh
+* [Access remote systems using ssh](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/s1-ssh-clients.html#s2-ssh-clients-ssh)
 * [Log in and switch users in multiuser targets](1-Understand and use essential tools/5-Log in and switch users in multiuser targets.md)
 * Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
 * Create and edit text files
