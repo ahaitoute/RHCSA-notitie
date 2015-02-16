@@ -64,7 +64,7 @@ Bron: https://www.redhat.com/en/services/training/ex200-red-hat-certified-system
 
 ## Manage security
 * Configure firewall settings using firewall-config, firewall-cmd, or iptables
-* Configure key-based authentication for SSH
+* [Configure key-based authentication for SSH](7-Manage security/2-Configure key-based authentication for SSH.md)
 * Set enforcing and permissive modes for SELinux
 * List and identify SELinux file and process context
 * Restore default file contexts
