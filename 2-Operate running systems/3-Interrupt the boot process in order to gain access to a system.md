@@ -35,3 +35,6 @@ When prompted to, enter your new root password and confirm by pressing the <kbd>
 sh4.2# mount -o remount,ro /
 ```
 9. Reboot the system. From now on, you will be able to log in as the root user using the new password set up during this procedure.
+```
+sh4.2# sudo reboot -f
+```
